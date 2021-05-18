@@ -1,3 +1,5 @@
+**Flutter では使えません**
+
 Reflection (MirrorSystem) を使っています. ご注意ください
 
 ```dart
