@@ -1,6 +1,6 @@
 name: enum_type_to_value_list
 description: enum type to value list.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/Atsumi3/EnumTypeToValueList
 
 environment:
